@@ -1,0 +1,9 @@
+
+gfp = "MASKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFSYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYITADKQKNGIKANFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK*"
+
+protein_sequence = gfp
+
+if 'I' or 'L' or 'V' or 'F' or 'M' or 'C' or 'A' or 'G' or 'P' or 'T' or 'S' or 'Y' or 'W' or 'Q' or 'N' or 'H' or 'E' or 'D' or 'K' or 'R' or '*' in protein_sequence:
+    print ("Normie protein")
+else:
+    print ("Cool protein")
