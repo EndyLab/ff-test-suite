@@ -1,5 +1,6 @@
-# check the for loop
+
 # code working now
+# next step is to find the most conserved spots
 
 
 from Bio import SeqIO
