@@ -1,5 +1,4 @@
- POS	 SEQ	    3LATOM	SCORE	COLOR	CONFIDENCE INTERVAL	MSA DATA	RESIDUE VARIETY
-    	    	        	(normalized)	               			
+ 	 SEQ	    3LATOM	SCORE	COLOR	CONFIDENCE INTERVAL	MSA DATA	RESIDUE VARIETY
 1	   G	         -	-0.126	  5*	-0.810, 0.297	   2/301	A,G
 2	   S	         -	0.148	  4*	-0.551, 0.475	   4/301	S,I,R
 3	   H	         -	-0.023	  5*	-0.609, 0.297	   5/301	H,D,L
